@@ -1,0 +1,73 @@
+body{
+    background-image: url('ImagensAnnaBella/fundo.png');
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.texto{
+    font-size:medium;
+    font-weight: 550;
+}
+
+.texto3{
+    font-size:medium;
+    font-weight: 550;
+    padding: 8px;
+}
+
+.texto2{
+    font-size:medium;
+}
+
+.principal{
+    width: 900px;
+}
+
+.principal2{
+    width: 900px;
+    background-color: rgb(245, 243, 233);
+    font-size: 25px;
+}
+
+.subtitulo{
+    font-size: 26px;
+    font-weight: 600;
+    color: rgb(97, 96, 85);
+}
+
+.tabela{
+    border-width: 10px;
+    border-style:solid;
+    border-color: rgb(245, 243, 233);
+}
+
+.tabela2{
+    width: 900px;
+    border-width: 10px;
+    border-style:solid;
+    border-image: url('ImagensAnnaBella/fundo.png');
+}
+
+.menu{
+    background-color: rgb(196, 195, 174);
+    color: rgb(103, 110, 123);
+    font-size:large;
+    padding: 18px;
+}
+
+.imagens{
+    border-width: 10px;
+    border-style: solid;
+    border-color: rgb(138, 136, 130);
+}
+
+#direitos{
+    background-image: url('ImagensAnnaBella/fundo.png');
+    font-weight: 900;
+    font-size: medium;
+}
